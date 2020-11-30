@@ -1,0 +1,63 @@
+{
+    "Services": [{
+            "name": "Niveau de qualité",
+            "text": "Dès que vous publiez du contenu sur Linkedin (statut en format texte, image, vidéos, lien sortant, etc.), l’algorithme jugera ce contenu automatiquement selon trois niveaux possibles, à savoir s’il s’agit de spam (pourriel), d’un contenu de basse qualité, ou d’un contenu de qualité."
+        },
+        {
+            "name": "Niveau d'intéraction",
+            "text": "Si la publication publiée a passée le premier filtre, le contenu s’affichera temporairement dans le fil d’actualité d’autres utilisateurs Linkedin. A ce stade, l’algorithme surveille principalement les interactions, ou l’engagement que suscite votre contenu. C’est à dire votre contenu a t’il suscité des likes, des commentaires, et/ou des partages. Il ne semble pas exister de seuil ou chiffre magique pour déterminer si une publication sera plus efficace selon le niveau d’interaction, mais ce filtre est crucial pour qu’un contenu ait plus de portée et une durée de vie allongée."
+        },
+        {
+            "name": "Crédibilité",
+            "text": "Le troisième filtre est moins évident, plus subtil. Il réfère à la personne qui produit les contenus, et la crédibilité perçue par Linkedin pour cette personne. En d’autres mots, si vous avez un historique de créer des publications qui suscitent la conversation et de l’engagement, Linkedin tient compte de cet aspect. Bien sûr le contenu lui-même est aussi important. Une publication qui semble bien faire réagir auprès de votre réseau mais aussi d’une audience élargie sera mieux considéré qu’une autre publication qui semble être du spam, ou qui performe moins bien, même si vous aviez établi une bonne crédibilité au préalable."
+        },
+        {
+            "name": "L'intervention humaine",
+            "text": "Les trois niveaux de filtres précédents sont entièrement automatisés par l’entremise de bots et d’un algorithme sophistiqué. Au quatrième et dernier niveau, l’intervention se fait par des employés de Linkedin, qui peuvent décider de mettre de l’avant une publication ou un article au sein d’un canal dédié, par exemple, au recrutement, au management ou divers autres sujets d’intérêts pour les communautés actives sur Linkedin."
+        }
+    ],
+    "Features": [
+        {
+            "icon": "fa fa-group",
+            "title": "Reidh Hoffman"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Konstantin Guericke"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Allen Blue"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Jean-Luc Vaillant"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Eric Ly"
+        }
+    ],
+    "BonnesPratiques": [
+        {
+            "title" : "Créer du contenu en fonction du biais Linkedin",
+            "content" : "Linkedin est un réseau social à part, c'est la seule plateforme par et pour les professionnels. C'est pour cela que Linkedin favorisera toujours du contenu en lien avec ces trois aspects : conseils pour l'avancement de carrière, pertinance pour une industrie, des sources crédibles et de confiance."
+        },
+        {
+            "title": "Varier les types de contenus",
+            "content": "Varier les contenus publier. Eviter de toujours poster des articles de même type, privilégier un mix de contenu : lien vers des articles pertinents, texte, vidéos, infographique, images, taguer des gens et/ou des entreprises lors de vos posts."
+        },
+        {
+            "title": "Accroitre votre réseau",
+            "content": "C’est une simple équation mathématique, mais Linkedin donnera toujours plus de poids à une publication efficace faite par un utilisateur auprès de ses 1500 relations comparativement à un autre utilisateur qui en n’aurait que 200. Attention, toutefois, à ne pas tomber dans le panneau des gens qui envoient des invitations à tout vent pour faire croitre leur réseau"
+        },
+        {
+            "title": "Impliquer les emplyés",
+            "content": "Pour un chef d’entreprise il peut paraitre normal pour l’entreprise de demander à ses employés de partager la publication auprès de leur réseau respectif. Cela contribue à la performance de la publication en question, et augmente la portée de de celle-ci."
+        },
+        {
+            "title": "Suivre les influenceurs de Linkedin",
+            "content": "Il existe habituellement, pour chaque industrie ou communauté d’intérêt, un ou plusieurs influenceurs qui partagent des contenus intéressants sur Linkedin. Assurez-vous de suivre ces individus et de partager leurs contenus, tout en ayant vous-mêmes une stratégie de publication et une fréquence en tête afin de publier régulièrement tout au long de l’année."
+        }
+    ]
+}
